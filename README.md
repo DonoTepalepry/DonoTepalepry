@@ -4,7 +4,7 @@ I’m a hands-on engineer who loves taking ideas off the whiteboard and turning 
 
 🛠️ Previously worked as a **Prototype Engineer** at *Breathe Easy Innovations*, where I designed and built custom hardware solutions from scratch.  
 🎓 Graduated from **Columbus State University** in May 2025 with a B.S. in Robotics Engineering.  
-⚡ In my free time, you’ll usually find me **fixing old electronics** or building **weird, slightly useless (but always fun)** contraptions with microcontrollers
+⚡ In my free time, you’ll usually find me **fixing old electronics** or building **weird, slightly useless** contraptions with microcontrollers
 
 I'm all about mixing creativity with engineering, whether it’s for automation, prototyping, or just for the fun of it.
 
