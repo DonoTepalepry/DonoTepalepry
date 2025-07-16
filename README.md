@@ -1,9 +1,12 @@
-## Hi, I'm Andrew
+# 💫 About Me
 
-# 💫 About Me:
-Prototype Engineer at Breathe Easy Innovations<br>
-Graduated from Columbus State University in May 2025<br>
-Main hobbies are electronics repair and making useless but fun machines using microcontrollers<br>
+I’m a hands-on engineer who loves taking ideas off the whiteboard and turning them into real, working machines.
+
+🛠️ Previously worked as a **Prototype Engineer** at *Breathe Easy Innovations*, where I design and build custom hardware solutions from scratch.  
+🎓 Graduated from **Columbus State University** in May 2025 with a B.S. in Robotics Engineering.  
+⚡ In my free time, you’ll usually find me **fixing old electronics** or building **weird, slightly useless (but always fun)** contraptions with microcontrollers
+
+I'm all about mixing creativity with engineering, whether it’s for automation, prototyping, or just for the fun of it.
 
 
 # 💻 Tech Stack:
